@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\andre\\onedrive\\desktop\\testing unreal 5\\testing-project\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\myprojectgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\andre\\onedrive\\desktop\\testing unreal 5\\testing-project\\myproject\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\andre\\onedrive\\desktop\\testing unreal 5\\testing-project\\myproject\\intermediate\\build\\win64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
+            "c:\\users\\andre\\onedrive\\desktop\\testing unreal 5\\testing-project\\myproject\\source\\myproject\\myprojectgamemode.h",
+            "c:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\andre\\onedrive\\desktop\\testing unreal 5\\testing-project\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\myprojectgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
